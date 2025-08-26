@@ -9,7 +9,7 @@
 **Office of Undergraduate Research (OUR)**
 **California State University, Northridge (CSUN)**
 
-**Wayne Smith, Ph.D., _Department of Management_, <ws@csun.edu>**
+**Wayne Smith, Ph.D., _Department of Management_, <ws@csun.edu>**\
 **Zack Hillbruner, _Division of Information Technology_, <ws@csun.edu>**
 
 
