@@ -20,5 +20,5 @@
 
 ## Additional Materials (Wayne S.)
 
-* Free Conferences, Important Affinity Groups, General Upskilling - [High-Performance Computing at CSUN](https://github.com/wsphd/csun-hpc)
+* Free Conferences, Affinity/Community Groups, Funding Sources, General Upskilling - [High-Performance Computing at CSUN](https://github.com/wsphd/csun-hpc)
 
