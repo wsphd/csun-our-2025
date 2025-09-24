@@ -15,10 +15,10 @@
 
 ## Technology Resources for Research (Zack H.)
 
-* ACCESS (NSF), National Research Platform (UCSD/SDSC), CSU TIDE (JupyterHub) - [Technology Resources for Research](https://www.csun.edu/it/academic-technology/faculty-technology-center-ftc/technology-resources-research)
+* ACCESS (NSF), National Research Platform (UCSD/SDSC), CSU TIDE (JupyterHub) - [Technology Resources for Research](https://www.csun.edu/it/research-resources)
 
 
 ## Additional Materials (Wayne S.)
 
-* Free Conferences, Affinity/Community Groups, Funding Sources, General Upskilling - [High-Performance Computing at CSUN](https://github.com/wsphd/csun-hpc)
+* More Resources, Free Conferences/Workshops, Affinity/Community Groups, Funding Sources, General Upskilling - [High-Performance Computing at CSUN](https://github.com/wsphd/csun-hpc)
 
