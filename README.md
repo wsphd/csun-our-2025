@@ -4,7 +4,7 @@
 ![https://github.com/wsphd/csun-our-2025](images/qr.svg "https://github.com/wsphd/csun-our-2025")\
 <https://github.com/wsphd/csun-our-2025/>
 
-**Getting Into Research**
+**Getting Into Research**\
 **September 26, 2025**
 
 **Office of Undergraduate Research (OUR)**
