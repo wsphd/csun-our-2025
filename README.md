@@ -7,7 +7,7 @@
 **Getting Into Research**\
 **September 26, 2025**
 
-**Office of Undergraduate Research (OUR)**
+**Office of Undergraduate Research (OUR)**\
 **California State University, Northridge (CSUN)**
 
 **Wayne Smith, Ph.D., _Department of Management_, <ws@csun.edu>**\
